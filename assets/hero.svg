@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+<title id="t">Masroor Shahani, Founder and CEO of NEXORA LLC</title>
+<desc id="d">Animated banner: NEXORA logo drawing itself over a moving perspective grid, with the services NEXORA LLC delivers.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0A1A3F"/><stop offset="0.55" stop-color="#0D2560"/><stop offset="1" stop-color="#0A1A3F"/>
+</linearGradient>
+<linearGradient id="nBar" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3B82F6"/><stop offset="1" stop-color="#1D4ED8"/></linearGradient>
+<linearGradient id="nDiag" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#93C5FD"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.55"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2563EB" stop-opacity="0.55"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
+<clipPath id="clipN"><rect x="0" y="0" width="150" height="150"/></clipPath>
+<style>
+.grid line{stroke:#60A5FA;stroke-opacity:.16;stroke-width:1}
+.flow{animation:flow 3s linear infinite}
+@keyframes flow{from{transform:translateY(0)}to{transform:translateY(40px)}}
+.draw{stroke-dasharray:420;stroke-dashoffset:420;animation:draw 2.4s cubic-bezier(.6,0,.2,1) .3s forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.fill{opacity:0;animation:fadein .8s ease 2.2s forwards}
+@keyframes fadein{to{opacity:1}}
+.rise{opacity:0;transform:translateY(14px);animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+.r1{animation-delay:.6s}.r2{animation-delay:1s}.r3{animation-delay:1.4s}.r4{animation-delay:1.8s}
+@keyframes rise{to{opacity:1;transform:translateY(0)}}
+.sweep{animation:sweep 4.5s ease-in-out 2.8s infinite}
+@keyframes sweep{0%{transform:translateX(-180px)}60%,100%{transform:translateX(200px)}}
+.orbit{transform-origin:885px 205px;animation:spin 18s linear infinite}
+.orbit2{transform-origin:885px 205px;animation:spin 28s linear infinite reverse}
+@keyframes spin{to{transform:rotate(360deg)}}
+.pulse{animation:pulse 2.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:.9}}
+.word{opacity:0;animation:cycle 12s linear infinite}
+.w1{animation-delay:0s}.w2{animation-delay:3s}.w3{animation-delay:6s}.w4{animation-delay:9s}
+@keyframes cycle{0%{opacity:0;transform:translateY(10px)}3%,22%{opacity:1;transform:translateY(0)}25%,100%{opacity:0;transform:translateY(-10px)}}
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+@media (prefers-reduced-motion:reduce){.flow,.draw,.fill,.rise,.sweep,.orbit,.orbit2,.pulse,.word{animation:none!important}.draw{stroke-dashoffset:0}.fill,.rise,.w1{opacity:1;transform:none}}
+</style>
+</defs>
+
+<rect width="1200" height="420" rx="18" fill="url(#bg)"/>
+
+<clipPath id="frame"><rect width="1200" height="420" rx="18"/></clipPath>
+<g clip-path="url(#frame)">
+<g class="grid">
+<g class="flow">
+<line x1="0" y1="320" x2="1200" y2="320"/><line x1="0" y1="355" x2="1200" y2="355"/><line x1="0" y1="390" x2="1200" y2="390"/><line x1="0" y1="420" x2="1200" y2="420"/>
+</g>
+<line x1="600" y1="300" x2="-300" y2="420"/><line x1="600" y1="300" x2="0" y2="420"/><line x1="600" y1="300" x2="300" y2="420"/><line x1="600" y1="300" x2="500" y2="420"/>
+<line x1="600" y1="300" x2="700" y2="420"/><line x1="600" y1="300" x2="900" y2="420"/><line x1="600" y1="300" x2="1200" y2="420"/><line x1="600" y1="300" x2="1500" y2="420"/>
+</g>
+<rect x="0" y="0" width="1200" height="312" fill="url(#bg)" opacity=".92"/>
+</g>
+
+<circle cx="885" cy="205" r="170" fill="url(#glow)"/>
+<g class="orbit">
+<circle cx="885" cy="205" r="140" fill="none" stroke="#60A5FA" stroke-opacity=".22" stroke-dasharray="2 8"/>
+<circle cx="1025" cy="205" r="6" fill="#60A5FA"/>
+<circle cx="745" cy="205" r="3.5" fill="#DBEAFE"/>
+</g>
+<g class="orbit2">
+<circle cx="885" cy="205" r="108" fill="none" stroke="#2563EB" stroke-opacity=".45" stroke-width="1.2"/>
+<circle cx="885" cy="97" r="4.5" fill="#93C5FD"/>
+<circle cx="885" cy="313" r="3" fill="#FFFFFF" class="pulse"/>
+</g>
+
+<g transform="translate(825,145)">
+<g fill="none" stroke="#93C5FD" stroke-width="2.5" stroke-linejoin="round">
+<path class="draw" d="M0 0 H32 V120 H0 Z"/>
+<path class="draw" d="M88 0 H120 V120 H88 Z"/>
+<path class="draw" d="M0 0 H32 L120 120 H88 Z"/>
+</g>
+<g class="fill">
+<rect x="0" y="0" width="32" height="120" fill="url(#nBar)"/>
+<rect x="88" y="0" width="32" height="120" fill="url(#nBar)"/>
+<polygon points="0,0 32,0 120,120 88,120" fill="url(#nDiag)"/>
+<g clip-path="url(#clipN)"><rect class="sweep" x="0" y="-20" width="60" height="170" fill="url(#shine)" transform="skewX(-20)"/></g>
+</g>
+</g>
+
+<g transform="translate(70,0)">
+<g class="rise r1"><text x="0" y="118" font-size="17" fill="#93C5FD" letter-spacing="1.5">Founder &amp; CEO, NEXORA LLC</text></g>
+<g class="rise r2"><text x="0" y="178" font-size="56" font-weight="800" fill="#FFFFFF">Masroor Shahani</text></g>
+<g class="rise r3">
+<text x="0" y="222" font-size="22" fill="#DBEAFE">I build and lead digital products for businesses:</text>
+</g>
+<g class="rise r4">
+<rect x="0" y="244" width="430" height="46" rx="10" fill="#2563EB" fill-opacity=".18" stroke="#3B82F6" stroke-opacity=".6"/>
+<g font-size="22" font-weight="700" fill="#FFFFFF">
+<text class="word w1" x="18" y="274">Web Platforms And Websites</text>
+<text class="word w2" x="18" y="274">Android And Mobile Apps</text>
+<text class="word w3" x="18" y="274">Data Automation And Analytics</text>
+<text class="word w4" x="18" y="274">Dashboards And Admin Panels</text>
+</g>
+<circle class="pulse" cx="408" cy="267" r="5" fill="#60A5FA"/>
+</g>
+</g>
+
+<rect x="0.5" y="0.5" width="1199" height="419" rx="18" fill="none" stroke="#3B82F6" stroke-opacity=".35"/>
+</svg>

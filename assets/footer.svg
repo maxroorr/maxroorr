@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="t d">
+<title id="t">Work with NEXORA LLC</title>
+<desc id="d">Call to action: start a project with NEXORA LLC, led by Masroor Shahani.</desc>
+<defs>
+<linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1D4ED8"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+<linearGradient id="w2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#60A5FA" stop-opacity=".55"/><stop offset="1" stop-color="#1D4ED8" stop-opacity=".55"/></linearGradient>
+<clipPath id="f"><rect width="1200" height="230" rx="18"/></clipPath>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.wa{animation:wave 9s ease-in-out infinite alternate}
+.wb{animation:wave 13s ease-in-out infinite alternate-reverse}
+@keyframes wave{from{transform:translateX(0)}to{transform:translateX(-600px)}}
+.in{opacity:0;animation:in 1s ease .3s forwards}
+@keyframes in{to{opacity:1}}
+.glow{animation:glow 2.8s ease-in-out infinite}
+@keyframes glow{0%,100%{fill-opacity:.15}50%{fill-opacity:.32}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+</style>
+</defs>
+<g clip-path="url(#f)">
+<rect width="1200" height="230" fill="#0A1A3F"/>
+<g class="wb"><path d="M0 170 Q150 130 300 170 T600 170 T900 170 T1200 170 T1500 170 T1800 170 V230 H0 Z" fill="url(#w2)"/></g>
+<g class="wa"><path d="M0 190 Q150 160 300 190 T600 190 T900 190 T1200 190 T1500 190 T1800 190 V230 H0 Z" fill="url(#w1)"/></g>
+</g>
+<g class="in">
+<text x="600" y="66" text-anchor="middle" font-size="34" font-weight="800" fill="#FFFFFF">Have A Product In Mind? Let's Build It.</text>
+<text x="600" y="100" text-anchor="middle" font-size="17" fill="#BFDBFE">Websites, mobile apps, dashboards and automation, delivered by NEXORA LLC</text>
+<rect class="glow" x="350" y="118" width="500" height="40" rx="20" fill="#3B82F6" stroke="#93C5FD" stroke-opacity=".7"/>
+<text x="600" y="144" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Start A Project At nexora.nexorallc.workers.dev</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="229" rx="18" fill="none" stroke="#3B82F6" stroke-opacity=".35"/>
+</svg>

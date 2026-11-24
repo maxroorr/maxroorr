@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="t d">
+<title id="t">How NEXORA LLC delivers a project</title>
+<desc id="d">Five steps: Discover, Design, Build, Launch, Grow, with a signal moving along the pipeline.</desc>
+<defs>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1D4ED8"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+<radialGradient id="dot"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".4" stop-color="#93C5FD"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.track{stroke-dasharray:1000;stroke-dashoffset:1000;animation:draw 2s ease-out forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.packet{animation:move 6s cubic-bezier(.45,0,.55,1) 2s infinite}
+@keyframes move{0%{transform:translateX(0);opacity:0}5%{opacity:1}90%{opacity:1}100%{transform:translateX(960px);opacity:0}}
+.node circle.ring{animation:lit 6s linear 2s infinite}
+.n2 circle.ring{animation-delay:3.2s}.n3 circle.ring{animation-delay:4.4s}.n4 circle.ring{animation-delay:5.6s}.n5 circle.ring{animation-delay:6.8s}
+@keyframes lit{0%,8%{stroke:#60A5FA;fill:#1D4ED8}20%,100%{stroke:#3B82F6;fill:#0D2560}}
+.node{opacity:0;animation:in .6s ease forwards}
+.n1{animation-delay:.2s}.n2{animation-delay:.6s}.n3{animation-delay:1s}.n4{animation-delay:1.4s}.n5{animation-delay:1.8s}
+@keyframes in{to{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;stroke-dashoffset:0!important}.packet{display:none}}
+</style>
+</defs>
+<rect width="1200" height="210" rx="18" fill="#0A1A3F"/>
+<rect x=".5" y=".5" width="1199" height="209" rx="18" fill="none" stroke="#3B82F6" stroke-opacity=".35"/>
+<line class="track" x1="120" y1="80" x2="1080" y2="80" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+<circle class="packet" cx="120" cy="80" r="16" fill="url(#dot)"/>
+
+<g class="node n1"><circle class="ring" cx="120" cy="80" r="24" fill="#0D2560" stroke="#3B82F6" stroke-width="2.5"/><text x="120" y="87" text-anchor="middle" font-size="19" font-weight="800" fill="#FFFFFF">1</text>
+<text x="120" y="140" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Discover</text><text x="120" y="166" text-anchor="middle" font-size="14" fill="#93C5FD">Goals, Users, Scope</text></g>
+<g class="node n2"><circle class="ring" cx="360" cy="80" r="24" fill="#0D2560" stroke="#3B82F6" stroke-width="2.5"/><text x="360" y="87" text-anchor="middle" font-size="19" font-weight="800" fill="#FFFFFF">2</text>
+<text x="360" y="140" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Design</text><text x="360" y="166" text-anchor="middle" font-size="14" fill="#93C5FD">Brand, UI, Flows</text></g>
+<g class="node n3"><circle class="ring" cx="600" cy="80" r="24" fill="#0D2560" stroke="#3B82F6" stroke-width="2.5"/><text x="600" y="87" text-anchor="middle" font-size="19" font-weight="800" fill="#FFFFFF">3</text>
+<text x="600" y="140" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Build</text><text x="600" y="166" text-anchor="middle" font-size="14" fill="#93C5FD">Web, Mobile, Data</text></g>
+<g class="node n4"><circle class="ring" cx="840" cy="80" r="24" fill="#0D2560" stroke="#3B82F6" stroke-width="2.5"/><text x="840" y="87" text-anchor="middle" font-size="19" font-weight="800" fill="#FFFFFF">4</text>
+<text x="840" y="140" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Launch</text><text x="840" y="166" text-anchor="middle" font-size="14" fill="#93C5FD">Hosting, Domains, Release</text></g>
+<g class="node n5"><circle class="ring" cx="1080" cy="80" r="24" fill="#0D2560" stroke="#3B82F6" stroke-width="2.5"/><text x="1080" y="87" text-anchor="middle" font-size="19" font-weight="800" fill="#FFFFFF">5</text>
+<text x="1080" y="140" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Grow</text><text x="1080" y="166" text-anchor="middle" font-size="14" fill="#93C5FD">Marketing, SEO, Support</text></g>
+</svg>

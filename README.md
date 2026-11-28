@@ -2,7 +2,7 @@
 <a href="https://nexora.nexorallc.workers.dev"><img src="./assets/hero.svg" width="100%" alt="Masroor Shahani, Founder and CEO of NEXORA LLC, software and digital agency"/></a>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Founder+%26+CEO+Of+NEXORA+LLC;Web+And+Mobile+App+Development;Data+Automation+And+Business+Dashboards;Turning+Ideas+Into+Launched+Products" alt="Founder and CEO of NEXORA LLC, web and mobile app development, data automation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Founder+%26+CEO+Of+NEXORA+LLC;Building+Sendvora%2C+SALVAGE+And+PFG;Web+And+Mobile+App+Development;Data+Automation+And+Business+Dashboards;Turning+Ideas+Into+Launched+Products" alt="Founder and CEO of NEXORA LLC, web and mobile app development, data automation"/>
 </p>
 
 <p align="center">
@@ -11,6 +11,7 @@
 <a href="https://nexora.nexorallc.workers.dev"><img src="https://img.shields.io/badge/Website-NEXORA%20LLC-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NEXORA LLC website"/></a>
 <a href="https://www.instagram.com/nexorallcofficial"><img src="https://img.shields.io/badge/Instagram-nexorallcofficial-1E293B?style=for-the-badge&logo=instagram&logoColor=60A5FA" alt="NEXORA LLC on Instagram"/></a>
 <a href="https://www.youtube.com/@MasroorDigitalDesk"><img src="https://img.shields.io/badge/YouTube-Masroor%20Digital%20Desk-2563EB?style=for-the-badge&logo=youtube&logoColor=white" alt="Masroor Digital Desk on YouTube"/></a>
+<a href="https://apps.microsoft.com/detail/9NTL05T2MG58"><img src="https://img.shields.io/badge/Microsoft%20Store-Sendvora-1E293B?style=for-the-badge&logo=microsoft&logoColor=60A5FA" alt="Sendvora on the Microsoft Store"/></a>
 </p>
 
 <p align="center">
@@ -31,6 +32,7 @@ He is also the founder of **The Ray Perfumes**, and shares business and tech kno
 - 🧩 Builds member portals, admin panels and multi-role platforms
 - 📊 Turns raw business data into dashboards, reports and automated workflows
 - 📱 Ships Android apps with automated build and release pipelines
+- 🖥️ Publishes Windows desktop apps to the Microsoft Store (Sendvora, SALVAGE)
 - 📈 Grows brands with SEO, content and social media marketing
 
 ## Companies And Channels
@@ -56,7 +58,7 @@ He is also the founder of **The Ray Perfumes**, and shares business and tech kno
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,py,java,kotlin,androidstudio,firebase,cloudflare,githubactions,git,vscode&perline=7" alt="PHP, MySQL, JavaScript, HTML, CSS, Python, Java, Kotlin, Android Studio, Firebase, Cloudflare, GitHub Actions, Git, VS Code"/>
+<img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,py,java,kotlin,androidstudio,firebase,supabase,sqlite,cloudflare,githubactions,git,vscode&perline=8" alt="PHP, MySQL, JavaScript, HTML, CSS, Python, Java, Kotlin, Android Studio, Firebase, Supabase, SQLite, Cloudflare, GitHub Actions, Git, VS Code"/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Shopify-1E293B?style=for-the-badge&logo=shopify&logoColor=60A5FA" alt="Shopify"/>
@@ -64,13 +66,36 @@ He is also the founder of **The Ray Perfumes**, and shares business and tech kno
 <img src="https://img.shields.io/badge/Power%20Of%20Data-1E293B?style=for-the-badge&logo=databricks&logoColor=60A5FA" alt="Data operations"/>
 </p>
 
-## Featured Projects
+## Featured Products
 
-| Project | Description |
-| --- | --- |
-| 🛡️ [**NEXORA Salvage**](https://github.com/maxroorr/nexora-salvage) | Data Recovery For Windows: Quick And Deep Scan For Formatted USB And External Drives |
-| 📱 [**PFG Android App**](https://github.com/maxroorr/pfg-app) | Android App For The PFG Platform, Built And Signed Automatically With GitHub Actions |
-| 🌐 [**NEXORA LLC Website**](https://nexora.nexorallc.workers.dev) | Company Website With Project Request Form, Reviews And Admin Panel |
+<table>
+<tr>
+<td width="50%"><a href="https://apps.microsoft.com/detail/9NTL05T2MG58"><img src="./assets/projects/sendvora.png" width="100%" alt="Sendvora, bulk email studio by NEXORA LLC"/></a></td>
+<td width="50%"><a href="https://github.com/maxroorr/nexora-salvage"><img src="./assets/projects/salvage.png" width="100%" alt="SALVAGE, free data recovery for Windows by NEXORA LLC"/></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📨 [Sendvora](https://apps.microsoft.com/detail/9NTL05T2MG58)** — Bulk email studio for Windows: Lead Finder across five search engines, email verification, personal campaigns and automatic follow-ups. On the Microsoft Store.
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ [SALVAGE](https://github.com/maxroorr/nexora-salvage)** — Free data recovery for Windows: Quick and Deep Scan bring back files from formatted USB and external drives, with original names and folders.
+
+</td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/maxroorr/pfg-app"><img src="./assets/projects/pfg-app.png" width="100%" alt="PFG Android App for Prize Fund Global"/></a></td>
+<td width="50%" valign="top">
+
+**📱 [PFG Android App](https://github.com/maxroorr/pfg-app)** — Official Android app for the Prize Fund Global platform, built and signed automatically with GitHub Actions.
+
+**🌐 [NEXORA LLC Website](https://nexora.nexorallc.workers.dev)** — Company website with a project request form, client reviews and an admin panel.
+
+</td>
+</tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 

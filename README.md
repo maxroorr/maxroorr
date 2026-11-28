@@ -97,6 +97,11 @@ He is also the founder of **The Ray Perfumes**, and shares business and tech kno
 </tr>
 </table>
 
+<p align="center">
+<a href="https://apps.microsoft.com/detail/9NTL05T2MG58"><img src="./assets/projects/sendvora-demo.gif" width="92%" alt="Sendvora Lead Finder searching five search engines and collecting emails live"/></a>
+<br><sub><b>Spotlight:</b> Sendvora's Lead Finder searching Google, Bing, DuckDuckGo, Yahoo and Brave, live.</sub>
+</p>
+
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## GitHub Activity

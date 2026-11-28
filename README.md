@@ -1,5 +1,5 @@
 <!-- Masroor Shahani | Founder & CEO of NEXORA LLC | Web Development, Mobile Apps, SaaS, Data Automation -->
-<a href="https://nexora.nexorallc.workers.dev"><img src="./assets/hero.svg" width="100%" alt="Masroor Shahani, Founder and CEO of NEXORA LLC, software and digital agency"/></a>
+<a href="https://www.nexorallc.co"><img src="./assets/hero.svg" width="100%" alt="Masroor Shahani, Founder and CEO of NEXORA LLC, software and digital agency"/></a>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Founder+%26+CEO+Of+NEXORA+LLC;Building+Sendvora%2C+SALVAGE+And+PFG;Web+And+Mobile+App+Development;Data+Automation+And+Business+Dashboards;Turning+Ideas+Into+Launched+Products" alt="Founder and CEO of NEXORA LLC, web and mobile app development, data automation"/>
@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/maxroorr"><img src="https://img.shields.io/badge/LinkedIn-Masroor%20Shahani-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Masroor Shahani on LinkedIn"/></a>
 <a href="https://www.linkedin.com/company/nexorallc-official"><img src="https://img.shields.io/badge/NEXORA%20LLC-Company-1E293B?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="NEXORA LLC on LinkedIn"/></a>
-<a href="https://nexora.nexorallc.workers.dev"><img src="https://img.shields.io/badge/Website-NEXORA%20LLC-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NEXORA LLC website"/></a>
+<a href="https://www.nexorallc.co"><img src="https://img.shields.io/badge/Website-nexorallc.co-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NEXORA LLC website"/></a>
 <a href="https://www.instagram.com/nexorallcofficial"><img src="https://img.shields.io/badge/Instagram-nexorallcofficial-1E293B?style=for-the-badge&logo=instagram&logoColor=60A5FA" alt="NEXORA LLC on Instagram"/></a>
 <a href="https://www.youtube.com/@MasroorDigitalDesk"><img src="https://img.shields.io/badge/YouTube-Masroor%20Digital%20Desk-2563EB?style=for-the-badge&logo=youtube&logoColor=white" alt="Masroor Digital Desk on YouTube"/></a>
 <a href="https://apps.microsoft.com/detail/9NTL05T2MG58"><img src="https://img.shields.io/badge/Microsoft%20Store-Sendvora-1E293B?style=for-the-badge&logo=microsoft&logoColor=60A5FA" alt="Sendvora on the Microsoft Store"/></a>
@@ -91,7 +91,7 @@ He is also the founder of **The Ray Perfumes**, and shares business and tech kno
 
 **📱 [PFG Android App](https://github.com/maxroorr/pfg-app)** — Official Android app for the Prize Fund Global platform, built and signed automatically with GitHub Actions.
 
-**🌐 [NEXORA LLC Website](https://nexora.nexorallc.workers.dev)** — Company website with a project request form, client reviews and an admin panel.
+**🌐 [NEXORA LLC Website](https://www.nexorallc.co)** — Company website with a project request form, client reviews and an admin panel.
 
 </td>
 </tr>
@@ -129,10 +129,10 @@ He is also the founder of **The Ray Perfumes**, and shares business and tech kno
 Need a website, app, dashboard or automation for your business? NEXORA LLC takes it from idea to launch.
 
 <p align="center">
-<a href="https://nexora.nexorallc.workers.dev"><img src="https://img.shields.io/badge/Start%20A%20Project-NEXORA%20LLC-2563EB?style=for-the-badge&logo=rocket&logoColor=white" alt="Start a project with NEXORA LLC"/></a>
+<a href="https://www.nexorallc.co"><img src="https://img.shields.io/badge/Start%20A%20Project-NEXORA%20LLC-2563EB?style=for-the-badge&logo=rocket&logoColor=white" alt="Start a project with NEXORA LLC"/></a>
 <a href="https://www.linkedin.com/in/maxroorr"><img src="https://img.shields.io/badge/Message%20Me-LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="Message Masroor Shahani on LinkedIn"/></a>
 </p>
 
-<a href="https://nexora.nexorallc.workers.dev"><img src="./assets/footer.svg" width="100%" alt="Have a product in mind? Start a project with NEXORA LLC"/></a>
+<a href="https://www.nexorallc.co"><img src="./assets/footer.svg" width="100%" alt="Have a product in mind? Start a project with NEXORA LLC"/></a>
 
 <p align="center"><sub>Made by <a href="https://www.linkedin.com/company/nexorallc-official">NEXORA LLC</a> · Masroor Shahani, Founder & CEO</sub></p>
